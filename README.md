@@ -1,18 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazia Ramzan Khan</h1>
 <h3 align="center">Software Engineer, Instructor, AI Enthusiast and Tech Youtuber</h3>
 
-<p align="left"> A passionate computer scientist, educator, and tech enthusiast dedicated to using technology for impact and inclusion. Over the years, I've been honored with several national and international recognitions in coding, academics, and community initiatives. Here are some highlights of my journey:<br><br>🏆 Notable Achievements:<br><br>  • 🥇 Gold Medalist in BS Computer Science from Government College University, Lahore.<br><br>  • 🏅 Ranked Top 3 in MS Computer Science at UET Lahore.<br><br>  • 🧩 Harvard CS50x Puzzle Day (2023 & 2024): My team solved 9/9 puzzles, showcasing elite problem-solving skills.<br><br>  • 🌍 CodeSprint LA 2025 – Beginner Division: Achieved 32nd place out of 82 teams in an international ACM ICPC-hosted contest at UCLA.<br><br>  • 🧠 Top Performer in the ULEFUSA GenAI Course.<br><br>  • 🧑‍🏫 Selected as a Python instructor for Stanford’s CIP program.<br><br>👩‍🏫 What I’m Passionate About:<br><br>  • 📚 Teaching DSA to underprivileged students across Pakistan to democratize tech education.<br><br>  • 📈 Creating content as a Tech YouTuber to break down complex concepts for beginners.<br><br>  • 💻 Solving Leetcode problems and exploring AI/ML with real-world impact.<br><br>⚡ Fun Fact<br>When I'm not debugging code, you’ll find me happily indulging in entrepreneurship and shopping 🛍️ — my second great love after Python 🐍!</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DebugWithNazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DebugWithNazi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DebugWithNazi/DebugWithNazi/output/snake.svg" alt="Snake animation" />
+<p align="left">A passionate computer scientist, educator, and tech enthusiast dedicated to using technology for impact and inclusion. Over the years, I've been honored with several national and international recognitions in coding, academics, and community initiatives. Here are some highlights of my journey:<br><br>🏆 Notable Achievements:<br>• 🥇 Gold Medalist in BS Computer Science from Government College University, Lahore.<br>• 🏅 Ranked Top 3 in MS Computer Science at UET Lahore.<br>• 🧩 Harvard CS50x Puzzle Day (2023 & 2024): My team solved 9/9 puzzles, showcasing elite problem-solving skills.<br> • 🌍 CodeSprint LA 2025 – Beginner Division: Achieved 32nd place out of 82 teams in an international ACM ICPC-hosted contest at UCLA.<br> • 🧠 Top Performer in the ULEFUSA GenAI Course.<br> • 🧑‍🏫 Selected as a Python instructor for Stanford’s CIP program.<br><br>👩‍🏫 What I’m Passionate About:<br>• 📚 Teaching DSA to underprivileged students across Pakistan to democratize tech education.<br>• 📈 Creating content as a Tech YouTuber to break down complex concepts for beginners.<br>• 💻 Solving Leetcode problems and exploring AI/ML with real-world impact.<br><br>⚡ Fun Fact<br>When I'm not debugging code, you’ll find me happily indulging in entrepreneurship and shopping 🛍️ — my second great love after Python 🐍!</p>
 
 ###
 
