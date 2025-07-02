@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nazia Ramzan Khan</h1>
 <h3 align="center">Software Engineer, Instructor, AI Enthusiast and Tech Youtuber</h3>
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/9dcaf5b8239cbde369748d7d731715746ea127239aa7ef4d81295163039de658/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6c6f747469652d3030305f315f312e676966"  />
-</div>
+
 
 ###
 
-<p align="left">A passionate computer scientist, educator, and tech enthusiast dedicated to using technology for impact and inclusion. Over the years, I've been honored with several national and international recognitions in coding, academics, and community initiatives. Here are some highlights of my journey:<br><br>🏆 Notable Achievements:<br><br>• 🥇 Gold Medalist in BS Computer Science from Government College University, Lahore.<br>• 🏅 Ranked Top 3 in MS Computer Science at UET Lahore.<br>• 🧩 Harvard CS50x Puzzle Day (2023 & 2024): My team solved 9/9 puzzles, showcasing elite problem-solving skills.<br>• 🌍 CodeSprint LA 2025 – Beginner Division: Achieved 32nd place out of 82 teams in an international ACM ICPC-hosted contest at UCLA.<br>• 🧠 Top Performer in the ULEFUSA GenAI Course.<br>• 🧑‍🏫 Selected as a Python instructor for Stanford’s CIP program.<br><br>👩‍🏫 What I’m Passionate About:<br><br>• 📚 Teaching DSA to underprivileged students across Pakistan to democratize tech education.<br>• 📈 Creating content as a Tech YouTuber to break down complex concepts for beginners.<br>• 💻 Solving Leetcode problems and exploring AI/ML with real-world impact.<br><br>⚡ Fun Fact<br>When I'm not debugging code, you’ll find me happily indulging in entrepreneurship and shopping 🛍️ — my second great love after Python 🐍!</p>
+<p align="left">A passionate computer scientist, educator, and tech enthusiast dedicated to using technology for impact and inclusion. Over the years, I've been honored with several national and international recognitions in coding, academics, and community initiatives. Here are some highlights of my journey:
+  <div align="right">
+  <img height="200" src="https://camo.githubusercontent.com/9dcaf5b8239cbde369748d7d731715746ea127239aa7ef4d81295163039de658/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6c6f747469652d3030305f315f312e676966"  />
+</div>
+  <br><br>🏆 Notable Achievements:<br><br>• 🥇 Gold Medalist in BS Computer Science from Government College University, Lahore.<br>• 🏅 Ranked Top 3 in MS Computer Science at UET Lahore.<br>• 🧩 Harvard CS50x Puzzle Day (2023 & 2024): My team solved 9/9 puzzles, showcasing elite problem-solving skills.<br>• 🌍 CodeSprint LA 2025 – Beginner Division: Achieved 32nd place out of 82 teams in an international ACM ICPC-hosted contest at UCLA.<br>• 🧠 Top Performer in the ULEFUSA GenAI Course.<br>• 🧑‍🏫 Selected as a Python instructor for Stanford’s CIP program.<br><br>👩‍🏫 What I’m Passionate About:<br><br>• 📚 Teaching DSA to underprivileged students across Pakistan to democratize tech education.<br>• 📈 Creating content as a Tech YouTuber to break down complex concepts for beginners.<br>• 💻 Solving Leetcode problems and exploring AI/ML with real-world impact.<br><br>⚡ Fun Fact<br>When I'm not debugging code, you’ll find me happily indulging in entrepreneurship and shopping 🛍️ — my second great love after Python 🐍!</p>
 
 ###
 
