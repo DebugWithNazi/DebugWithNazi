@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nazia-khan-02588312a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nazia-khan-02588312a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nazia-ramzan-02588312a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nazia-ramzan-02588312a/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@debugwithnazia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@debugwithnazia" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/naziakhan7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/naziakhan7/" height="30" width="40" /></a>
 <a href="https://discord.gg/naziakhan0965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="naziakhan0965" height="30" width="40" /></a>
